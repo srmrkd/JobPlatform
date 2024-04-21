@@ -8,4 +8,6 @@ Currently it fetches the data from a .json file.
 In Process! Back-End to be done...
 - Fetching Data from an external Source
 - add-page and working with forms
-    
+
+## Goal:
+CRUD functionality
